@@ -57,6 +57,13 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        booking: {
+          blue: "hsl(var(--booking-blue))",
+          "dark-blue": "hsl(var(--booking-dark-blue))",
+          yellow: "hsl(var(--booking-yellow))",
+          green: "hsl(var(--booking-green))",
+          "light-bg": "hsl(var(--booking-light-bg))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
